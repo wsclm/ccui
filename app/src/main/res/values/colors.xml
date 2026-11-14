@@ -1,0 +1,8 @@
+<resources>
+    <color name="ccui_primary">#6750A4</color>
+    <color name="ccui_on_primary">#FFFFFF</color>
+    <color name="ccui_secondary_container">#E8DEF8</color>
+    <color name="ccui_surface">#FFFBFE</color>
+    <color name="ccui_on_surface">#1C1B1F</color>
+    <bool name="ccui_light_bars">true</bool>
+</resources>
