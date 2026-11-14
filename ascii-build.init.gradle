@@ -1,0 +1,3 @@
+allprojects {
+    layout.buildDirectory.set(new File('C:/Users/qowa2/AppData/Local/Temp/opencode/ccui-build', project.name))
+}
